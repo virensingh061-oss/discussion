@@ -1,0 +1,1832 @@
+[
+  {
+    "ID": 1,
+    "subject": "Data Mining",
+    "question": "What is supervised learning?",
+    "creationTime": 1747817850935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Heidi",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 3,
+        "downwardCount": 1
+      },
+      "1": {
+        "name": "Grace",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 4,
+        "downwardCount": 1
+      },
+      "2": {
+        "name": "Grace",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 5,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Dana",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 3,
+        "downwardCount": 1
+      }
+    }
+  },
+  {
+    "ID": 2,
+    "subject": "Internet of Things",
+    "question": "Explain unsupervised learning with an example.",
+    "creationTime": 1747817860935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Alice",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 2,
+        "downwardCount": 2
+      },
+      "1": {
+        "name": "Alice",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      },
+      "2": {
+        "name": "Heidi",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 4,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Grace",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 2,
+        "downwardCount": 1
+      }
+    }
+  },
+  {
+    "ID": 3,
+    "subject": "Operating Systems",
+    "question": "What are convolutional neural networks used for?",
+    "creationTime": 1747817870935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Heidi",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 2,
+        "downwardCount": 1
+      },
+      "1": {
+        "name": "Heidi",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 4,
+        "downwardCount": 0
+      },
+      "2": {
+        "name": "Bob",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 0,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Alice",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 1,
+        "downwardCount": 2
+      },
+      "4": {
+        "name": "Grace",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 3,
+        "downwardCount": 1
+      }
+    }
+  },
+  {
+    "ID": 4,
+    "subject": "Cloud Computing",
+    "question": "Define normalization in databases.",
+    "creationTime": 1747817880935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Dana",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 4,
+        "downwardCount": 1
+      },
+      "1": {
+        "name": "Bob",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 5,
+        "downwardCount": 0
+      },
+      "2": {
+        "name": "Frank",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 0,
+        "downwardCount": 1
+      },
+      "3": {
+        "name": "Grace",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 3,
+        "downwardCount": 1
+      },
+      "4": {
+        "name": "Bob",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      }
+    }
+  },
+  {
+    "ID": 5,
+    "subject": "Database Systems",
+    "question": "What is a NoSQL database?",
+    "creationTime": 1747817890935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Bob",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 0,
+        "downwardCount": 2
+      },
+      "1": {
+        "name": "Frank",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 1,
+        "downwardCount": 1
+      },
+      "2": {
+        "name": "Dana",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 1,
+        "downwardCount": 0
+      },
+      "3": {
+        "name": "Heidi",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 3,
+        "downwardCount": 1
+      },
+      "4": {
+        "name": "Dana",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 1,
+        "downwardCount": 2
+      }
+    }
+  },
+  {
+    "ID": 6,
+    "subject": "Blockchain",
+    "question": "Explain Hadoop and its ecosystem.",
+    "creationTime": 1747817900935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Bob",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 5,
+        "downwardCount": 2
+      },
+      "1": {
+        "name": "Alice",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      },
+      "2": {
+        "name": "Eve",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 0,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Dana",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 5,
+        "downwardCount": 1
+      }
+    }
+  },
+  {
+    "ID": 7,
+    "subject": "Data Warehousing",
+    "question": "How does MapReduce work?",
+    "creationTime": 1747817910935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Grace",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 3,
+        "downwardCount": 2
+      },
+      "1": {
+        "name": "Charlie",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      },
+      "2": {
+        "name": "Heidi",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 5,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Charlie",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 4,
+        "downwardCount": 2
+      }
+    }
+  },
+  {
+    "ID": 8,
+    "subject": "Operating Systems",
+    "question": "What are the benefits of cloud computing?",
+    "creationTime": 1747817920935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Bob",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 2,
+        "downwardCount": 0
+      },
+      "1": {
+        "name": "Frank",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 1,
+        "downwardCount": 0
+      },
+      "2": {
+        "name": "Eve",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 1,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Charlie",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 2,
+        "downwardCount": 2
+      },
+      "4": {
+        "name": "Bob",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 2,
+        "downwardCount": 2
+      }
+    }
+  },
+  {
+    "ID": 9,
+    "subject": "Distributed Systems",
+    "question": "What is edge computing?",
+    "creationTime": 1747817930935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Frank",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 0,
+        "downwardCount": 1
+      },
+      "1": {
+        "name": "Frank",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 0,
+        "downwardCount": 2
+      },
+      "2": {
+        "name": "Heidi",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 5,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Bob",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 2,
+        "downwardCount": 0
+      }
+    }
+  },
+  {
+    "ID": 10,
+    "subject": "Machine Learning",
+    "question": "Explain the difference between AI and ML.",
+    "creationTime": 1747817940935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Bob",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 2,
+        "downwardCount": 0
+      },
+      "1": {
+        "name": "Eve",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 1,
+        "downwardCount": 1
+      },
+      "2": {
+        "name": "Bob",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 5,
+        "downwardCount": 1
+      },
+      "3": {
+        "name": "Bob",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 2,
+        "downwardCount": 2
+      },
+      "4": {
+        "name": "Heidi",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 5,
+        "downwardCount": 0
+      }
+    }
+  },
+  {
+    "ID": 11,
+    "subject": "Blockchain",
+    "question": "What is a blockchain?",
+    "creationTime": 1747817950935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Eve",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 1,
+        "downwardCount": 1
+      },
+      "1": {
+        "name": "Alice",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 4,
+        "downwardCount": 1
+      },
+      "2": {
+        "name": "Frank",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 4,
+        "downwardCount": 0
+      },
+      "3": {
+        "name": "Charlie",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      }
+    }
+  },
+  {
+    "ID": 12,
+    "subject": "Computer Networks",
+    "question": "How does a relational database differ from a non-relational one?",
+    "creationTime": 1747817960935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Eve",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 2,
+        "downwardCount": 1
+      },
+      "1": {
+        "name": "Dana",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 1,
+        "downwardCount": 0
+      },
+      "2": {
+        "name": "Dana",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 2,
+        "downwardCount": 0
+      },
+      "3": {
+        "name": "Frank",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 2,
+        "downwardCount": 0
+      },
+      "4": {
+        "name": "Charlie",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      }
+    }
+  },
+  {
+    "ID": 13,
+    "subject": "Artificial Intelligence",
+    "question": "What is the role of a hypervisor in virtualization?",
+    "creationTime": 1747817970935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Alice",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      },
+      "1": {
+        "name": "Heidi",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 5,
+        "downwardCount": 1
+      },
+      "2": {
+        "name": "Heidi",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 1,
+        "downwardCount": 0
+      },
+      "3": {
+        "name": "Eve",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 1,
+        "downwardCount": 1
+      }
+    }
+  },
+  {
+    "ID": 14,
+    "subject": "Internet of Things",
+    "question": "Explain the OSI model.",
+    "creationTime": 1747817980935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Grace",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 1,
+        "downwardCount": 1
+      },
+      "1": {
+        "name": "Frank",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 1,
+        "downwardCount": 2
+      },
+      "2": {
+        "name": "Bob",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 4,
+        "downwardCount": 1
+      },
+      "3": {
+        "name": "Eve",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 4,
+        "downwardCount": 1
+      },
+      "4": {
+        "name": "Bob",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 2,
+        "downwardCount": 1
+      }
+    }
+  },
+  {
+    "ID": 15,
+    "subject": "Natural Language Processing",
+    "question": "What is the use of DNS?",
+    "creationTime": 1747817990935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Eve",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 3,
+        "downwardCount": 0
+      },
+      "1": {
+        "name": "Heidi",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      },
+      "2": {
+        "name": "Alice",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 0,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Charlie",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      },
+      "4": {
+        "name": "Heidi",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 2,
+        "downwardCount": 0
+      }
+    }
+  },
+  {
+    "ID": 16,
+    "subject": "Deep Learning",
+    "question": "Describe the function of a load balancer.",
+    "creationTime": 1747818000935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Eve",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 5,
+        "downwardCount": 2
+      },
+      "1": {
+        "name": "Eve",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 4,
+        "downwardCount": 0
+      },
+      "2": {
+        "name": "Dana",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 3,
+        "downwardCount": 0
+      },
+      "3": {
+        "name": "Charlie",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 4,
+        "downwardCount": 0
+      },
+      "4": {
+        "name": "Frank",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 2,
+        "downwardCount": 2
+      }
+    }
+  },
+  {
+    "ID": 17,
+    "subject": "Deep Learning",
+    "question": "What is an SQL injection attack?",
+    "creationTime": 1747818010935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Alice",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 4,
+        "downwardCount": 1
+      },
+      "1": {
+        "name": "Dana",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 4,
+        "downwardCount": 1
+      },
+      "2": {
+        "name": "Dana",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 2,
+        "downwardCount": 1
+      },
+      "3": {
+        "name": "Heidi",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 2,
+        "downwardCount": 2
+      },
+      "4": {
+        "name": "Frank",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 5,
+        "downwardCount": 1
+      }
+    }
+  },
+  {
+    "ID": 18,
+    "subject": "Software Engineering",
+    "question": "What is the difference between IPv4 and IPv6?",
+    "creationTime": 1747818020935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Grace",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 3,
+        "downwardCount": 0
+      },
+      "1": {
+        "name": "Alice",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      },
+      "2": {
+        "name": "Alice",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 2,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Bob",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 5,
+        "downwardCount": 0
+      },
+      "4": {
+        "name": "Alice",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 2,
+        "downwardCount": 1
+      }
+    }
+  },
+  {
+    "ID": 19,
+    "subject": "Machine Learning",
+    "question": "What are smart contracts?",
+    "creationTime": 1747818030935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Frank",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 5,
+        "downwardCount": 0
+      },
+      "1": {
+        "name": "Bob",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 5,
+        "downwardCount": 1
+      },
+      "2": {
+        "name": "Frank",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 4,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Grace",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 0,
+        "downwardCount": 1
+      },
+      "4": {
+        "name": "Bob",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      }
+    }
+  },
+  {
+    "ID": 20,
+    "subject": "Mobile Computing",
+    "question": "Explain the concept of containers and Docker.",
+    "creationTime": 1747818040935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Eve",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 0,
+        "downwardCount": 2
+      },
+      "1": {
+        "name": "Alice",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 4,
+        "downwardCount": 2
+      },
+      "2": {
+        "name": "Dana",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 5,
+        "downwardCount": 1
+      },
+      "3": {
+        "name": "Alice",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 3,
+        "downwardCount": 2
+      },
+      "4": {
+        "name": "Dana",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 1,
+        "downwardCount": 2
+      }
+    }
+  },
+  {
+    "ID": 21,
+    "subject": "Computer Networks",
+    "question": "What is the difference between agile and waterfall models?",
+    "creationTime": 1747818050935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Bob",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      },
+      "1": {
+        "name": "Alice",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 1,
+        "downwardCount": 2
+      },
+      "2": {
+        "name": "Eve",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 2,
+        "downwardCount": 0
+      },
+      "3": {
+        "name": "Charlie",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 2,
+        "downwardCount": 1
+      }
+    }
+  },
+  {
+    "ID": 22,
+    "subject": "Data Warehousing",
+    "question": "Define natural language processing.",
+    "creationTime": 1747818060935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Frank",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 0,
+        "downwardCount": 1
+      },
+      "1": {
+        "name": "Eve",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 0,
+        "downwardCount": 2
+      },
+      "2": {
+        "name": "Frank",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 5,
+        "downwardCount": 0
+      },
+      "3": {
+        "name": "Bob",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      },
+      "4": {
+        "name": "Dana",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      }
+    }
+  },
+  {
+    "ID": 23,
+    "subject": "Internet of Things",
+    "question": "What is the Turing Test?",
+    "creationTime": 1747818070935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Eve",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      },
+      "1": {
+        "name": "Heidi",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 0,
+        "downwardCount": 2
+      },
+      "2": {
+        "name": "Alice",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 0,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Dana",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 3,
+        "downwardCount": 2
+      },
+      "4": {
+        "name": "Charlie",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 0,
+        "downwardCount": 1
+      }
+    }
+  },
+  {
+    "ID": 24,
+    "subject": "Natural Language Processing",
+    "question": "How does backpropagation work in neural networks?",
+    "creationTime": 1747818080935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Frank",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 2,
+        "downwardCount": 1
+      },
+      "1": {
+        "name": "Grace",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 1,
+        "downwardCount": 2
+      },
+      "2": {
+        "name": "Charlie",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 2,
+        "downwardCount": 1
+      },
+      "3": {
+        "name": "Bob",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 0,
+        "downwardCount": 1
+      }
+    }
+  },
+  {
+    "ID": 25,
+    "subject": "Distributed Systems",
+    "question": "What is reinforcement learning?",
+    "creationTime": 1747818090935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Dana",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 3,
+        "downwardCount": 2
+      },
+      "1": {
+        "name": "Grace",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      },
+      "2": {
+        "name": "Charlie",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 1,
+        "downwardCount": 1
+      },
+      "3": {
+        "name": "Heidi",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 1,
+        "downwardCount": 1
+      },
+      "4": {
+        "name": "Eve",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 2,
+        "downwardCount": 2
+      }
+    }
+  },
+  {
+    "ID": 26,
+    "subject": "Machine Learning",
+    "question": "Explain the role of data lakes in Big Data.",
+    "creationTime": 1747818100935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Dana",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 1,
+        "downwardCount": 1
+      },
+      "1": {
+        "name": "Dana",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 1,
+        "downwardCount": 1
+      },
+      "2": {
+        "name": "Heidi",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 3,
+        "downwardCount": 1
+      },
+      "3": {
+        "name": "Dana",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 3,
+        "downwardCount": 1
+      }
+    }
+  },
+  {
+    "ID": 27,
+    "subject": "Distributed Systems",
+    "question": "What are generative adversarial networks?",
+    "creationTime": 1747818110935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Alice",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 0,
+        "downwardCount": 1
+      },
+      "1": {
+        "name": "Eve",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 1,
+        "downwardCount": 1
+      },
+      "2": {
+        "name": "Alice",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 0,
+        "downwardCount": 1
+      },
+      "3": {
+        "name": "Bob",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 2,
+        "downwardCount": 1
+      },
+      "4": {
+        "name": "Charlie",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 1,
+        "downwardCount": 2
+      }
+    }
+  },
+  {
+    "ID": 28,
+    "subject": "Natural Language Processing",
+    "question": "What is the difference between classification and regression?",
+    "creationTime": 1747818120935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Charlie",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 3,
+        "downwardCount": 1
+      },
+      "1": {
+        "name": "Charlie",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 5,
+        "downwardCount": 2
+      },
+      "2": {
+        "name": "Heidi",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 5,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Alice",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 5,
+        "downwardCount": 2
+      },
+      "4": {
+        "name": "Frank",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 3,
+        "downwardCount": 0
+      }
+    }
+  },
+  {
+    "ID": 29,
+    "subject": "Cybersecurity",
+    "question": "What is the CAP theorem in distributed systems?",
+    "creationTime": 1747818130935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Bob",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 0,
+        "downwardCount": 1
+      },
+      "1": {
+        "name": "Alice",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 3,
+        "downwardCount": 2
+      },
+      "2": {
+        "name": "Bob",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 1,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Frank",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      },
+      "4": {
+        "name": "Grace",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 1,
+        "downwardCount": 0
+      }
+    }
+  },
+  {
+    "ID": 30,
+    "subject": "Cybersecurity",
+    "question": "Explain the concept of eventual consistency.",
+    "creationTime": 1747818140935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Eve",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 2,
+        "downwardCount": 1
+      },
+      "1": {
+        "name": "Charlie",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 1,
+        "downwardCount": 2
+      },
+      "2": {
+        "name": "Frank",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 2,
+        "downwardCount": 0
+      },
+      "3": {
+        "name": "Grace",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 4,
+        "downwardCount": 2
+      }
+    }
+  },
+  {
+    "ID": 31,
+    "subject": "Quantum Computing",
+    "question": "How does a firewall work?",
+    "creationTime": 1747818150935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Frank",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 5,
+        "downwardCount": 0
+      },
+      "1": {
+        "name": "Alice",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 3,
+        "downwardCount": 2
+      },
+      "2": {
+        "name": "Heidi",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 2,
+        "downwardCount": 0
+      },
+      "3": {
+        "name": "Charlie",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 4,
+        "downwardCount": 2
+      },
+      "4": {
+        "name": "Heidi",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 3,
+        "downwardCount": 0
+      }
+    }
+  },
+  {
+    "ID": 32,
+    "subject": "Cloud Computing",
+    "question": "What are digital signatures?",
+    "creationTime": 1747818160935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Heidi",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 3,
+        "downwardCount": 0
+      },
+      "1": {
+        "name": "Frank",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 0,
+        "downwardCount": 2
+      },
+      "2": {
+        "name": "Dana",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 0,
+        "downwardCount": 1
+      },
+      "3": {
+        "name": "Frank",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 5,
+        "downwardCount": 2
+      },
+      "4": {
+        "name": "Heidi",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 2,
+        "downwardCount": 1
+      }
+    }
+  },
+  {
+    "ID": 33,
+    "subject": "Software Engineering",
+    "question": "Explain k-means clustering.",
+    "creationTime": 1747818170935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Grace",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 0,
+        "downwardCount": 2
+      },
+      "1": {
+        "name": "Alice",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 1,
+        "downwardCount": 2
+      },
+      "2": {
+        "name": "Alice",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 4,
+        "downwardCount": 1
+      },
+      "3": {
+        "name": "Heidi",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 5,
+        "downwardCount": 0
+      },
+      "4": {
+        "name": "Charlie",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 4,
+        "downwardCount": 0
+      }
+    }
+  },
+  {
+    "ID": 34,
+    "subject": "Cybersecurity",
+    "question": "What is dimensionality reduction?",
+    "creationTime": 1747818180935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Grace",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 4,
+        "downwardCount": 2
+      },
+      "1": {
+        "name": "Alice",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 0,
+        "downwardCount": 2
+      },
+      "2": {
+        "name": "Bob",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      },
+      "3": {
+        "name": "Charlie",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 1,
+        "downwardCount": 2
+      },
+      "4": {
+        "name": "Eve",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 5,
+        "downwardCount": 2
+      }
+    }
+  },
+  {
+    "ID": 35,
+    "subject": "Blockchain",
+    "question": "What is the purpose of a hash function in cryptography?",
+    "creationTime": 1747818190935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Heidi",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 5,
+        "downwardCount": 0
+      },
+      "1": {
+        "name": "Eve",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 5,
+        "downwardCount": 2
+      },
+      "2": {
+        "name": "Bob",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 5,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Heidi",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 1,
+        "downwardCount": 1
+      }
+    }
+  },
+  {
+    "ID": 36,
+    "subject": "Data Mining",
+    "question": "How does public key infrastructure work?",
+    "creationTime": 1747818200935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Frank",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 3,
+        "downwardCount": 2
+      },
+      "1": {
+        "name": "Grace",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 3,
+        "downwardCount": 2
+      },
+      "2": {
+        "name": "Frank",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 1,
+        "downwardCount": 1
+      },
+      "3": {
+        "name": "Bob",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 2,
+        "downwardCount": 1
+      }
+    }
+  },
+  {
+    "ID": 37,
+    "subject": "Cybersecurity",
+    "question": "What is a container orchestration platform?",
+    "creationTime": 1747818210935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Bob",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 1,
+        "downwardCount": 0
+      },
+      "1": {
+        "name": "Bob",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 5,
+        "downwardCount": 2
+      },
+      "2": {
+        "name": "Dana",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 2,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Frank",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 1,
+        "downwardCount": 0
+      },
+      "4": {
+        "name": "Frank",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 4,
+        "downwardCount": 0
+      }
+    }
+  },
+  {
+    "ID": 38,
+    "subject": "Distributed Systems",
+    "question": "What is continuous integration and deployment (CI/CD)?",
+    "creationTime": 1747818220935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Dana",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 5,
+        "downwardCount": 2
+      },
+      "1": {
+        "name": "Alice",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 1,
+        "downwardCount": 0
+      },
+      "2": {
+        "name": "Dana",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 2,
+        "downwardCount": 0
+      },
+      "3": {
+        "name": "Alice",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 1,
+        "downwardCount": 2
+      },
+      "4": {
+        "name": "Heidi",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 2,
+        "downwardCount": 0
+      }
+    }
+  },
+  {
+    "ID": 39,
+    "subject": "Quantum Computing",
+    "question": "What are RESTful APIs?",
+    "creationTime": 1747818230935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Alice",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 2,
+        "downwardCount": 0
+      },
+      "1": {
+        "name": "Alice",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 2,
+        "downwardCount": 0
+      },
+      "2": {
+        "name": "Eve",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 1,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Bob",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 0,
+        "downwardCount": 2
+      }
+    }
+  },
+  {
+    "ID": 40,
+    "subject": "Blockchain",
+    "question": "Explain latency and throughput.",
+    "creationTime": 1747818240935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Frank",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 0,
+        "downwardCount": 1
+      },
+      "1": {
+        "name": "Charlie",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 1,
+        "downwardCount": 2
+      },
+      "2": {
+        "name": "Eve",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 0,
+        "downwardCount": 1
+      },
+      "3": {
+        "name": "Heidi",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 2,
+        "downwardCount": 0
+      }
+    }
+  },
+  {
+    "ID": 41,
+    "subject": "Mobile Computing",
+    "question": "What is data sharding?",
+    "creationTime": 1747818250935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Frank",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 3,
+        "downwardCount": 2
+      },
+      "1": {
+        "name": "Bob",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 5,
+        "downwardCount": 0
+      },
+      "2": {
+        "name": "Dana",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 4,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Heidi",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 4,
+        "downwardCount": 0
+      }
+    }
+  },
+  {
+    "ID": 42,
+    "subject": "Natural Language Processing",
+    "question": "What is SQL and how is it used?",
+    "creationTime": 1747818260935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Grace",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 1,
+        "downwardCount": 2
+      },
+      "1": {
+        "name": "Eve",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 1,
+        "downwardCount": 1
+      },
+      "2": {
+        "name": "Charlie",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 4,
+        "downwardCount": 1
+      },
+      "3": {
+        "name": "Eve",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 0,
+        "downwardCount": 2
+      },
+      "4": {
+        "name": "Alice",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      }
+    }
+  },
+  {
+    "ID": 43,
+    "subject": "Mobile Computing",
+    "question": "Explain the use of indexes in databases.",
+    "creationTime": 1747818270935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Charlie",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 4,
+        "downwardCount": 1
+      },
+      "1": {
+        "name": "Charlie",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 1,
+        "downwardCount": 0
+      },
+      "2": {
+        "name": "Eve",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 3,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Bob",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 0,
+        "downwardCount": 1
+      },
+      "4": {
+        "name": "Dana",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 1,
+        "downwardCount": 1
+      }
+    }
+  },
+  {
+    "ID": 44,
+    "subject": "Blockchain",
+    "question": "What is ACID in databases?",
+    "creationTime": 1747818280935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Bob",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 1,
+        "downwardCount": 1
+      },
+      "1": {
+        "name": "Charlie",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      },
+      "2": {
+        "name": "Charlie",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 5,
+        "downwardCount": 0
+      },
+      "3": {
+        "name": "Alice",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 1,
+        "downwardCount": 2
+      }
+    }
+  },
+  {
+    "ID": 45,
+    "subject": "Big Data",
+    "question": "What is the difference between OLAP and OLTP?",
+    "creationTime": 1747818290935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Eve",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 3,
+        "downwardCount": 1
+      },
+      "1": {
+        "name": "Frank",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 5,
+        "downwardCount": 1
+      },
+      "2": {
+        "name": "Charlie",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 4,
+        "downwardCount": 1
+      },
+      "3": {
+        "name": "Alice",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 2,
+        "downwardCount": 0
+      }
+    }
+  },
+  {
+    "ID": 46,
+    "subject": "Quantum Computing",
+    "question": "Explain the concept of fault tolerance.",
+    "creationTime": 1747818300935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Frank",
+        "comment": "This is often used in real-world systems.",
+        "upwardCount": 0,
+        "downwardCount": 2
+      },
+      "1": {
+        "name": "Charlie",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 0,
+        "downwardCount": 2
+      },
+      "2": {
+        "name": "Eve",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 0,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Alice",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 3,
+        "downwardCount": 2
+      },
+      "4": {
+        "name": "Heidi",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 4,
+        "downwardCount": 1
+      }
+    }
+  },
+  {
+    "ID": 47,
+    "subject": "Software Engineering",
+    "question": "What are microservices?",
+    "creationTime": 1747818310935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Alice",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 5,
+        "downwardCount": 2
+      },
+      "1": {
+        "name": "Frank",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 3,
+        "downwardCount": 2
+      },
+      "2": {
+        "name": "Bob",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 3,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Frank",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 3,
+        "downwardCount": 2
+      },
+      "4": {
+        "name": "Charlie",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 2,
+        "downwardCount": 0
+      }
+    }
+  },
+  {
+    "ID": 48,
+    "subject": "Mobile Computing",
+    "question": "What is a virtual private cloud?",
+    "creationTime": 1747818320935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Alice",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 3,
+        "downwardCount": 2
+      },
+      "1": {
+        "name": "Alice",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 3,
+        "downwardCount": 1
+      },
+      "2": {
+        "name": "Grace",
+        "comment": "Very important topic for developers.",
+        "upwardCount": 2,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Heidi",
+        "comment": "Let me elaborate on this point.",
+        "upwardCount": 3,
+        "downwardCount": 1
+      },
+      "4": {
+        "name": "Dana",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 4,
+        "downwardCount": 0
+      }
+    }
+  },
+  {
+    "ID": 49,
+    "subject": "Data Mining",
+    "question": "What is a content delivery network (CDN)?",
+    "creationTime": 1747818330935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Eve",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 4,
+        "downwardCount": 0
+      },
+      "1": {
+        "name": "Dana",
+        "comment": "This is a fundamental concept in CS.",
+        "upwardCount": 0,
+        "downwardCount": 0
+      },
+      "2": {
+        "name": "Heidi",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 1,
+        "downwardCount": 1
+      },
+      "3": {
+        "name": "Frank",
+        "comment": "Scalability and efficiency are important.",
+        "upwardCount": 2,
+        "downwardCount": 2
+      }
+    }
+  },
+  {
+    "ID": 50,
+    "subject": "Deep Learning",
+    "question": "Explain how recommendation systems work.",
+    "creationTime": 1747818340935,
+    "favourite": 0,
+    "responses": {
+      "0": {
+        "name": "Frank",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 3,
+        "downwardCount": 2
+      },
+      "1": {
+        "name": "Heidi",
+        "comment": "I think this could be explained with an example.",
+        "upwardCount": 1,
+        "downwardCount": 1
+      },
+      "2": {
+        "name": "Alice",
+        "comment": "Security concerns are vital here.",
+        "upwardCount": 0,
+        "downwardCount": 2
+      },
+      "3": {
+        "name": "Dana",
+        "comment": "One should also consider the practical applications.",
+        "upwardCount": 5,
+        "downwardCount": 1
+      }
+    }
+  }
+]

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discussion Portal</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <header>Discussion Portal <i class="fa-brands fa-rocketchat"></i></header>
+
+    <div id="container">
+
+        <div id="left">
+            <div id="leftHead">
+                <button id="quesForm">New Question Form</button>
+                <input id="searchInput" type="text" placeholder="search questions...">
+            </div>
+            <div id="leftBody">
+                <!-- <div id="leftBodyTemplate" style="display: none; border-bottom: 1px solid gray;" class="height">
+                    <p class="subject para1"></p>
+                    <p class="question para2"></p>
+                    <i id="star" class="fas fa-star"></i>
+                </div> -->
+            </div>
+        </div>
+
+        <div id="right">
+            <div id="firstRight">
+                <h1>Welcome to Discussion Portal !</h1>
+                <h4>Enter a subject and question to get started</h4>
+                <div id="rightCenter">
+                    <input id="subInput" type="text" placeholder="Subject">
+                    <textarea id="rightQuesInput" placeholder="Question"></textarea>
+                    <button id="submitBtn">Submit</button>
+                </div>
+            </div>
+
+            <div id="secondRight" style="display: none;">
+
+                <div id="questionBlock">
+                    <h2 style="color: gray;">Question<i class="fa-solid fa-circle-question"></i></h2>
+                    <div id="rightTemplate"></div>
+                    <button id="resolveBtn">Resolve</button>
+                </div>
+
+                <h3 style="color: gray;">Response <i class="fa-solid fa-comment"></i></h3>
+                <div id="responseBlock">
+                    <!-- upcoming data -->
+                </div>
+                
+
+                <h2 style="color: gray;">Add Response <i class="fa-solid fa-headset"></i></h2>
+                <div id="addResponse">
+                    <input id="responseName" placeholder="Enter Name">
+                    <textarea id="comment" placeholder="Enter Comment"></textarea>
+                    <button id="responseSubmitBtn">Submit</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- clones -->
+
+    <div id="response" style="display: none; border-bottom: 1px solid gray;" class="clone">
+        <p style="margin-left: 5px; font-size: 20px; background-color: gainsboro;" id="cloneResponseName"></p>
+        <p style="margin-left: 5px; font-size: 20px; background-color: gainsboro;" id="cloneComment"></p>
+        <!-- <div id="buttons">
+            <span id="upwardCount">0</span>
+            <button id="thumbup"><i class="fa-solid fa-thumbs-up"></i></button>
+            <button id="thumbdown"><i class="fa-solid fa-thumbs-down"></i></button>
+            <span id="downwardCount">0</span>
+        </div> -->
+    </div>
+
+    <div id="leftBodyTemplate" style="display: none; border-bottom: 1px solid gray;" class="height">
+        <p class="subject para1"></p>
+        <p class="question para2"></p>
+        <div style="display: flex; justify-content: space-between;">
+        <span><span id="headingFav">Add to favorites</span> <i id="star" class="fas fa-star"></i></span>
+        <span>Creation Time : <span class="creation-time">newly created</span></span>
+        </div>
+    </div>
+    
+
+    <script src="script.js"></script>
+</body>
+</html>
